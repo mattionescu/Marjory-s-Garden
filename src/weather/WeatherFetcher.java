@@ -16,7 +16,8 @@ public class WeatherFetcher
     private static final String API_KEY = "";
 
     static final HttpTransport HTTP_TRANSPORT = new NetHttpTransport();
-    static final JsonFactory JSON_FACTORY = new J
+    static final JsonFactory JSON_FACTORY = new JacksonFactory();
+
     public WeatherFetcher()
     {
     }
