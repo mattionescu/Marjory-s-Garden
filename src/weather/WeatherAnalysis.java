@@ -6,5 +6,7 @@ package weather;
  * @author Matthew
  * @version 1/28/2017
  */
-public class WeatherAnalysis {
+public class WeatherAnalysis
+{
+
 }

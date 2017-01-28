@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Marjory's Garden:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Marjory_s_Garden_jar</output-path>
+    <root id="archive" name="Marjory_s Garden.jar">
+      <element id="module-output" name="Marjory's Garden" />
+    </root>
+  </artifact>
+</component>
